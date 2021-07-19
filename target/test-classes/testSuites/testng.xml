@@ -5,7 +5,7 @@
     <classes>
       <class name="testCases.GoogleTest"/>
       <class name="testCases.AmazonTest"/>
-      <class name="testCases.FacebookTest"/>
+      <!-- <class name="testCases.FacebookTest" /> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
