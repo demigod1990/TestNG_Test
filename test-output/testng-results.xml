@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57" started-at="2021-07-19T07:12:48Z" finished-at="2021-07-19T07:12:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57" started-at="2021-07-19T07:12:48Z" finished-at="2021-07-19T07:12:48Z">
+      <class name="testCases.GoogleTest">
+        <test-method status="PASS" signature="printGoogle()[pri:0, instance:testCases.GoogleTest@3a82f6ef]" name="printGoogle" duration-ms="15" started-at="2021-07-19T07:12:48Z" finished-at="2021-07-19T07:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printGoogle -->
+      </class> <!-- testCases.GoogleTest -->
+      <class name="testCases.FacebookTest">
+        <test-method status="PASS" signature="printFacebook()[pri:0, instance:testCases.FacebookTest@643b1d11]" name="printFacebook" duration-ms="0" started-at="2021-07-19T07:12:48Z" finished-at="2021-07-19T07:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFacebook -->
+      </class> <!-- testCases.FacebookTest -->
+      <class name="testCases.AmazonTest">
+        <test-method status="PASS" signature="printAmazon()[pri:0, instance:testCases.AmazonTest@100fc185]" name="printAmazon" duration-ms="0" started-at="2021-07-19T07:12:48Z" finished-at="2021-07-19T07:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAmazon -->
+      </class> <!-- testCases.AmazonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
